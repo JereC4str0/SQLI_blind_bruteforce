@@ -1,5 +1,5 @@
 # SQL Injection Brute Force – Administrator Password Extractor
-
+## Blind SQL injection with conditional responses
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-completado-success)
